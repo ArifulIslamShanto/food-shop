@@ -166,3 +166,62 @@ footer h2{
     transition: 0.5s;
     border: 1px solid black;
 }
+.reserve{
+    display: flex;
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+}
+.reserve img{
+    width: 100%;
+    border-radius: 20px;
+    margin-top: 40px;
+}
+.reserve h2{
+    font-size: 50px;
+}
+#number{
+    height: 30px;
+    width: 350px;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 10px;
+    border: 1px solid gray;
+    margin-bottom: 10px;
+}
+#date-time{
+    height: 30px;
+    width: 350px;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 10px;
+    border: 1px solid gray;
+    margin-bottom: 10px;
+
+}
+#tele{
+    height: 30px;
+    width: 350px;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 10px;
+    border: 1px solid gray;
+    margin-bottom: 20px;
+}
+#btn{
+    text-decoration: none;
+    margin: 5px;
+    padding: 10px;
+    font-size: 25px;
+    color: white;
+    border-radius: 10px;
+    background-color:gray;
+}
+#btn:hover{
+    color: black;
+    background-color: white;
+    border: 1px solid gray;
+    transition: 0.5s;
+}
+.top{
+    margin: 20px;
+}
